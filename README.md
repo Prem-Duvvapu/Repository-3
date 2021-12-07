@@ -6,6 +6,7 @@ This is the third repository.
 ***bold and italic***
 
 s.no|name|reg.no.
+----|----|-------
 1|Prem|e5
 2|Dinesh|e0
 3|Hemanth|d9
