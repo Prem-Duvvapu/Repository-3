@@ -3,6 +3,10 @@ This is the third repository.
 
 ### Heading-3
 
+*italic*
+
+**bold**
+
 ***bold and italic***
 
 s.no|name|reg.no.
